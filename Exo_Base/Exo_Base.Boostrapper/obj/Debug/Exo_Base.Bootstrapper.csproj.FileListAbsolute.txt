@@ -1,0 +1,8 @@
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\ApplicationInsights.config
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Bootstrapper.dll.config
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Bootstrapper.dll
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Bootstrapper.pdb
+C:\XamProj\Exo_Base\Exo_Base.Boostrapper\obj\Debug\Exo_Base.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\XamProj\Exo_Base\Exo_Base.Boostrapper\obj\Debug\Exo_Base.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\XamProj\Exo_Base\Exo_Base.Boostrapper\obj\Debug\Exo_Base.Bootstrapper.dll
+C:\XamProj\Exo_Base\Exo_Base.Boostrapper\obj\Debug\Exo_Base.Bootstrapper.pdb

@@ -1,0 +1,7 @@
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Data.dll.config
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Data.dll
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Data.pdb
+C:\XamProj\Exo_Base\Exo_Base.Data\obj\Debug\Exo_Base.Data.csprojResolveAssemblyReference.cache
+C:\XamProj\Exo_Base\Exo_Base.Data\obj\Debug\Exo_Base.Data.csproj.CoreCompileInputs.cache
+C:\XamProj\Exo_Base\Exo_Base.Data\obj\Debug\Exo_Base.Data.dll
+C:\XamProj\Exo_Base\Exo_Base.Data\obj\Debug\Exo_Base.Data.pdb

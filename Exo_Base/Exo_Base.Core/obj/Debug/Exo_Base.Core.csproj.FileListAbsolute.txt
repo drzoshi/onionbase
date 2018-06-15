@@ -1,0 +1,5 @@
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Core.dll
+C:\XamProj\Exo_Base\Exo_Base.Web\bin\Exo_Base.Core.pdb
+C:\XamProj\Exo_Base\Exo_Base.Core\obj\Debug\Exo_Base.Core.csproj.CoreCompileInputs.cache
+C:\XamProj\Exo_Base\Exo_Base.Core\obj\Debug\Exo_Base.Core.dll
+C:\XamProj\Exo_Base\Exo_Base.Core\obj\Debug\Exo_Base.Core.pdb
